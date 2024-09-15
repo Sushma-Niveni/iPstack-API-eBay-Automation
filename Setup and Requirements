@@ -1,0 +1,24 @@
+## Setup and Requirements
+
+### Dependencies
+
+- Python (recommended version: 3.x)
+- Required libraries: `requests`, `beautifulsoup4`, `pymongo`, `selenium`
+- MongoDB installed and running
+- WebDriver for Selenium (e.g., ChromeDriver for Google Chrome)
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/ipstack-ebay-project.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd ipstack-ebay-project
+   ```
+3. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
